@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The best nevves that ever was printed. 1. Prince Ruperts resolution to bee gone to his mother who hath sent for him. 2. His Majesties royall intentions declared to joyne with the Parliament in a treaty for peace. 3. The particulars of the high court of Parliament drawn up to be sent to his Majesty for peace. 4. Directions from the Lords and Commons, directed to the commanders for the ordering of the Army.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76465</idno>
+            <idno type="STC">Wing B2059</idno>
+            <idno type="STC">Thomason E90_8</idno>
+            <idno type="STC">ESTC R5205</idno>
+            <idno type="EEBO-CITATION">99872816</idno>
+            <idno type="PROQUEST">99872816</idno>
+            <idno type="VID">125262</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76465)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125262)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E90[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The best nevves that ever was printed. 1. Prince Ruperts resolution to bee gone to his mother who hath sent for him. 2. His Majesties royall intentions declared to joyne with the Parliament in a treaty for peace. 3. The particulars of the high court of Parliament drawn up to be sent to his Majesty for peace. 4. Directions from the Lords and Commons, directed to the commanders for the ordering of the Army.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire?</note>
+                  <note>Annotation on Thomason copy: "feb: 20 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125262:1" rendition="simple:additions"/>
+            <p>The Beſt NEVVES That ever was PRINTED.</p>
+            <list>
+               <item>1. Prince Ruperts reſolution to bee gone to his Mother who hath ſent for him.</item>
+               <item>2. His Majeſties Royall intentions declared to joyne with the Parliament in a treaty for peace.</item>
+               <item>3. The part<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>culars of the high Court of Parliament drawn up to be ſent to his Majeſty for peace.</item>
+               <item>4. Directions from the Lords and Commons, directed to the Commanders for the ordering of the Army.</item>
+            </list>
+            <p>
+               <add>feb: 20 1642</add> 
+               <hi>London, Printed for</hi> I. A. <hi>1643.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:125262:2"/>
+            <pb n="1" facs="tcp:125262:2"/>
+            <head>Prince <hi>RUPERTS</hi> Reſolution to be gone to his Mother, who hath ſent for him.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E do in the preſence of Al<g ref="char:EOLhyphen"/>mighty God, and to all the whole world, and in the ſight of all good men, in no manner approve, allow, give conſent, or a<g ref="char:EOLhyphen"/>ny way countenance the unjuſt and unruly actions of my Sonne Prince <hi>Rupert</hi> now in <hi>England;</hi> and ſo do I the ſame with the Queene, my deare mother, by the ſame vow diſrelliſh and hate all thoſe outrages and cru<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lties of any brother Prince <hi>Rupert,</hi> and it
+<pb n="2" facs="tcp:125262:3"/>grieves us at our very Soules for his unhu<g ref="char:EOLhyphen"/>mane cruelties we heare he commit, whoſe paſſion wee cannot confine, and whoſe <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpirit we cannot calm nor diſ<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> him from acting, by the lawfull meanes which we have uſed, as by Letters, Meſſages, and intimate friends.</p>
+            <p>And our petition and deſire is to the ho<g ref="char:EOLhyphen"/>norable Houſes of Parliament, that our an<g ref="char:EOLhyphen"/>nuall penſions may be duely paydus, which is our chiefeſt lively-hood under God, and that wee may not ſuffer and languiſh for his ſake, whoſe actions and behavior we cannot helpe. Hoping that both. Houſes of Parlia<g ref="char:EOLhyphen"/>ment will ſpeedily conſider of our petition which wee have ſent unto them, having con<g ref="char:EOLhyphen"/>tinually found that ſavour from this King<g ref="char:EOLhyphen"/>dome of <hi>England,</hi> for their reall loues in our diſtreſſe, that we are bound to aſſiſt you and your Nation both with our praſer &amp; thankes which is onely acceptable and beſt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſing to God and to all righteous men <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> And for my particular, I take God to wit<g ref="char:EOLunhyphen"/>neſſe, ſo long as I was <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>England</hi> with His
+<pb n="3" facs="tcp:125262:3"/>Majeſty, I laboured for peace, and a Reconci<g ref="char:EOLhyphen"/>liation betwixt his Majeſty and his Parlia<g ref="char:EOLhyphen"/>ment, but finding that I could not prevaile, but I was over borne by a ſtrong faction who had his Majeſties care, I took my leave, and went for Holland, obeying and hearkning un<g ref="char:EOLhyphen"/>to my mothers counſel whom I ſhall willing<g ref="char:EOLhyphen"/>ly obey and abide with.</p>
+            <p>Prince <hi>Rupert</hi> began to declare his reſoluti<g ref="char:EOLhyphen"/>on to the Kings moſt Excellent Majeſty, and the reſt of the Nobles, attending upon his Royal perſon, which was to this effect.</p>
+            <p>
+               <hi>That he had in or mation by letters from Hol<g ref="char:EOLhyphen"/>land that his Royall mother was much diſcontented and troubled in minde for his reſidence here in England, and way very deſirous that be ſhould take leave of his Royall. Oakle the King of Eng<g ref="char:EOLhyphen"/>land, and to goe to Hoſland to her, whereby ſhee might impart her mind unto him, be bring willing to <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lfill his mother, deſires, and ſorry for his firſt comening over, declared his reſolucion to his Ma<g ref="char:EOLhyphen"/>jeſly that he was now reſolved to leave England, deſering his Majeſty not to be diſpleaſed thereat; and that according to the utmoſt of his power, hee would endeavour to ſend over ſuch able Comman<g ref="char:EOLhyphen"/>ders, as ſhould finiſh what be had begun.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="4" facs="tcp:125262:4"/>
+            <head>His Majeſties Royall intentions declared to joynewith his Parliament in a treaty of Peace.</head>
+            <p>WE will not repeate what meanes we have uſed to prevent the dangerous, and diſtracted eſtate of the Kingdome, nor how thoſe means have been in<g ref="char:EOLhyphen"/>terpreted, becauſe being deſirous to avoid effuſion of bloud, we are willing to decline all memory of former bitterneſſe that might make our offer of a treaty leſſe readily accepted.</p>
+            <p>We never did declare, nor ever intended to declare both Our houſes of Parliament traytours, or ſet up our Standard againſt them, We utterly profeſſe againſt it before God and the world, and further to remove all poſſible ſcruples which may hinder the treaty ſo much deſired by us: we hereby promiſe, ſo that a day be ap<g ref="char:EOLhyphen"/>pointed by you, for the revoking of your Declarations againſt all perſons as traytours, or otherwiſe for aſſiſt<g ref="char:EOLhyphen"/>ing of us. We ſhall with all chearfullneſſe upon the ſame day recall our Proclamations, and Declarations, and take down our Standard. In which treaty, we ſhall be ready to grant any thing, that ſhall be really for the good of Our Subjects, conjuring you to conſider the bleeding condition of <hi>Ireland,</hi> and the dangerous con<g ref="char:EOLhyphen"/>dition of <hi>England,</hi> in as high a degree, as by theſe Our offer. We have declared Our ſelf to do: And aſſuring you that Our chiefe deſire in this world, is to beget a good underſtanding, and mutuall conſidence betwixt Us, and Our two Houſes of Parliament.</p>
+         </div>
+         <div type="part">
+            <pb n="5" facs="tcp:125262:4"/>
+            <head>The particulers of the high Court of Parliament drawne up to be ſent to his Majeſty for peace.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Houſe of Commons ſpent much time in debating upon His Majeſties Propoſitions lately ſent to the Houſe concerning an Accommodation, there being uſually in the Houſe at this debate at leaſt two hundred of the Members, beſides many there be which are imployed upon ſpeciall ſer<g ref="char:EOLhyphen"/>vice of the Kingdome in ſeverall Countreys, by which it appeares that the Parliament are not ſo few in num<g ref="char:EOLhyphen"/>ber as ſome diſaffected perſons do report they are; and at laſt it was voted to this effect, <hi>viz.</hi>
+               <list>
+                  <item>1. That there ſhould bee a ſpeedy disbanding of both Armies.</item>
+                  <item>2. That the Armies in the Northerne and Weſterne Counties and other remote part, ſhall be disbanded by the firſt of March.</item>
+                  <item>3. That the Armies at <hi>Oxford, Redding, Windſore,</hi> and the parts adjacent, bee disbanded by the tenth of March.</item>
+                  <item>4. That Meſſengers bee ſent to the King, to treat of the true and manner of disbanding, and that a ceſſation of
+<pb n="6" facs="tcp:125262:5"/>armes ſhall be aſſented unto, in reference in the dishanding.</item>
+                  <item>5. That preſently after the disbanding of both Armies, a committee ſhall bee ſent to attend His Majeſty by an humble Treaty to give him ſatisfaction conce<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng the <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rop<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſitions ſent to them from the King and likewiſe thoſe Propoſitions wh<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> were preſentied from the Parliament to His Majeſty.</item>
+               </list>
+            </p>
+         </div>
+         <div type="part">
+            <head>An order by the Lords and Commons for direction in the Armie.</head>
+            <p>VVHereas there have been divers complaints made unto us of many diſorders, commited by the ſouldiers; in their marching, and in ſuch places where<g ref="char:EOLhyphen"/>in they have been quairered and billered, which diſ<g ref="char:EOLhyphen"/>orders (as is informed) have beene partly occaſioned by the neglect of their Officers to goe along with them: It is therefore ordered by the Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament, that the Lord Gene<g ref="char:EOLhyphen"/>rall be deſired to give command to all the officers, that they take care to attend, according to the duty of their ſeverall pl<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s, that the ſouldiers thereby may be here<g ref="char:EOLhyphen"/>after kept from ſtragling up and down the Countries. And to that end to lay his command upon the Officers of each Company, both in the marching, quartering, and billeting, to bee in perſon amongſt the ſouldiers, to prevent any diſorders whatſoever, and puniſh ſuch as ſhall offend.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
